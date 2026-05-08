@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(python generate_thesis_figures.py)",
+      "Bash(python generate_flowcharts.py)"
+    ]
+  }
+}
