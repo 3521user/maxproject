@@ -126,9 +126,6 @@ dmypy.json
 .pyre/
 
 # Private
-/data/*
-/training_data/model/*
-/training_data/*
 /tss_0to3.add.xml
 /tss_7to10.add.xml
 /tss_free.rou.xml
@@ -136,7 +133,6 @@ dmypy.json
 /sample.net.xml
 /20201028.net.xml
 
-/training_data/*
 /Network/modify2*.xml
 /Network/origin*.xml
 /Network/randomTrips.py

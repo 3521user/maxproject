@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<additional>
+    <edgeData id="edgeData_00" file="C:\Users\86151\Desktop\rl-constraints-traffic-main\data\train\04-25_18-50-01_edge.xml" begin="0" end="3600" freq="900"/>
+    <laneData id="laneData_00" file="C:\Users\86151\Desktop\rl-constraints-traffic-main\data\train\04-25_18-50-01_lane.xml" begin="0" end="3600" freq="900"/>
+    </additional>
+    

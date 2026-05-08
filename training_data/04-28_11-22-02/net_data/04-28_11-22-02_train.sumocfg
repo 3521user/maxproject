@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<configuration>
+  <input>
+    <net-file value="C:\Users\22734\Desktop\rl-constraints-traffic-main\training_data\04-28_11-22-02\net_data\04-28_11-22-02.net.xml"/>
+    <route-files value="C:\Users\22734\Desktop\rl-constraints-traffic-main\training_data\04-28_11-22-02\net_data\04-28_11-22-02.rou.xml"/>
+    <additional-files value="C:\Users\22734\Desktop\rl-constraints-traffic-main\training_data\04-28_11-22-02\net_data\04-28_11-22-02_data.add.xml"/>
+    </input>
+    <time>
+    <begin value="0"/>
+    <end value="3600"/>
+    </time>
+    <output/>
+  </configuration>
+  

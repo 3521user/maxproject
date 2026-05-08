@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<configuration>
+  <input>
+    <net-file value="C:\Users\86151\Desktop\project\training_data\05-02_19-00-28_fixtime\net_data\05-02_19-00-28_fixtime.net.xml"/>
+    <route-files value="C:\Users\86151\Desktop\project\training_data\05-02_19-00-28_fixtime\net_data\05-02_19-00-28_fixtime.rou.xml"/>
+    <additional-files value="C:\Users\86151\Desktop\project\training_data\05-02_19-00-28_fixtime\net_data\05-02_19-00-28_fixtime_data.add.xml"/>
+    </input>
+    <time>
+    <begin value="0"/>
+    <end value="3600"/>
+    </time>
+    <output>
+    <no-step-log value="true"/>
+    </output>
+  </configuration>
+  

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<configuration>
+  <input>
+    <net-file value="C:\Users\86151\Desktop\project\training_data\05-02_19-02-31_test\net_data\05-02_19-02-31_test.net.xml"/>
+    <route-files value="C:\Users\86151\Desktop\project\training_data\05-02_19-02-31_test\net_data\05-02_19-02-31_test.rou.xml"/>
+    <additional-files value="C:\Users\86151\Desktop\project\training_data\05-02_19-02-31_test\net_data\05-02_19-02-31_test_data.add.xml"/>
+    </input>
+    <time>
+    <begin value="0"/>
+    <end value="3600"/>
+    </time>
+    <output>
+    <no-step-log value="true"/>
+    </output>
+  </configuration>
+  

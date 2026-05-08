@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-04-28T18:01:48.858967+08:00 by Eclipse SUMO GUI 1.26.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\22734\Desktop\rl-constraints-traffic-main\training_data\04-28_11-22-02\net_data\04-28_11-22-02.net.xml"/>
+        <route-files value="C:\Users\22734\Desktop\rl-constraints-traffic-main\training_data\04-28_11-22-02\net_data\04-28_11-22-02.rou.xml"/>
+        <additional-files value="C:\Users\22734\Desktop\rl-constraints-traffic-main\training_data\04-28_11-22-02\net_data\04-28_11-22-02_data.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+</sumoConfiguration>
+-->
+
+<meandata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/meandata_file.xsd">
+</meandata>

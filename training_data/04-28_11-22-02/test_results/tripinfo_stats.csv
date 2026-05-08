@@ -1,0 +1,16 @@
+Metric,Value
+Total Vehicles,11917
+Completed Vehicles,11917
+Unfinished Vehicles,0
+
+Travel Time (s),Mean,Std,Min,Max
+,397.614501953125,88.63320922851562,1.0,823.0
+
+Delay (s),Mean,Std,Min,Max
+,241.67601013183594,63.484867095947266,0.0,558.0
+
+Fuel (L/100km),Mean,Std,Total (L)
+,19.006519317626953,2.52006459236145,226462.6875
+
+CO2 (g/km),Mean,Std,Total (g)
+,439.70758056640625,58.301937103271484,5239116.0
